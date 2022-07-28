@@ -1,0 +1,71 @@
+body
+{  font-family: 'Raleway', sans-serif;
+    color: rgb(34, 34, 34);
+    background-color: #dfdfdf;
+    margin-left: 0px;
+    margin-right: 0%;     
+    
+}
+    .conteiner
+    {
+        width: 1000px;
+        margin: 0 auto;
+    }
+    .profile{
+        text-align: center;     
+        margin-bottom: 40px  
+    }
+  
+
+.foto-principal
+{
+    box-shadow: 0px 0px 10px rgb(116 116 116);        
+    margin: 30px 30px 0px;
+    width: 200px;   
+    border: 2px solid rgb(255, 255, 255); /*shorthand*/ 
+    border-radius: 50% 
+}   
+
+
+    h1
+    {
+        font-size: 40px;
+        font-family: 'PT Sans Narrow', sans-serif;
+        margin-bottom: 0px;
+        letter-spacing: -1px;
+        margin-top: 0%;
+    }
+    h2
+    {
+        margin-top: 0px;
+        font-style: italic;
+        color: rgb(73,73,73);
+        font-weight: 100;
+        letter-spacing: -1px;
+    }
+
+    .ancora{
+        text-decoration: none;
+    }
+
+.logo{
+    width:20px;
+    
+}
+
+.facebook{
+    margin: 0px 15px 0px 15px;
+}
+
+.footer{
+    background: black;
+    height: 50px;
+    margin-top: 40px;
+    color: white;
+    text-align: center;
+    font-style: italic;
+    padding: 10px 0px;
+
+}
+
+    
